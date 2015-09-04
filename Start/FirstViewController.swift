@@ -12,7 +12,7 @@ class FirstViewController: UIViewController, UITableViewDataSource {
 
     var data = [
         ("Lettuce","3.50"),
-        ("Watermellon","4.20"),
+        ("Watermelon","4.20"),
         ("Cookies","5.99"),
         ("Water","2.00"),
         ("Lid", "0.99"),

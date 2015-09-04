@@ -51,7 +51,7 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="First" image="first" id="acW-dT-cKf"/>
                     <connections>
-                        <outlet property="derp" destination="l4j-Zs-cXO" id="KIY-6A-O0J"/>
+                        <segue destination="bZI-vR-YwG" kind="push" id="mo3-4W-Zb9"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
